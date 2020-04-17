@@ -1,0 +1,18 @@
+This file aims to direct the reader to the pertinent sections of the project repo. 
+
+The key files utilised in the project are:
+1) Index.ipynb: This file contains all code related to data understaning, cleaning, modelling, interpretation and visualisation
+2) Data Mining Headings: This file gives a description of the oft cryptic database headings
+3) Tanzanian Water Pump IJ JM.pdf: This is the pdf file of our project presentation
+4) Dependent_training_set.csv: This is the source target file downloaded from the competition website. link below. 
+5) Independent_training_set.csv: This is the source features file downloaded from the competition website, link below.
+
+Any other notebooks within the file are secondary, unused or only for reference and do not need to be reviewed as part 
+of the submission. 
+
+Links
+source website: 
+https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/data/
+
+project presentation: 
+https://docs.google.com/presentation/d/1TnLewC5uv6RxjRitLcYN9-a9McCGpy7KWpl4zgEwoI8/edit#slide=id.g73c48d1315_0_50
